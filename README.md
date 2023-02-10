@@ -11,7 +11,8 @@ I am a professional mathematician and IT specialist with over 15 years of experi
 
 
 <h2> My repositories <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 30px height= 30px> </h2>
-<a href = 'https://github.com/electricmechanism/python-machine-learning-projects'>Machine learning projects done in Python</a>
+<h3><a href = 'https://github.com/electricmechanism/python-machine-learning-projects'>Machine learning projects done in Python</a></3>
+<br>
 <br>
  
  
