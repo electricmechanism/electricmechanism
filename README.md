@@ -1,7 +1,3 @@
-<div align="center">
-<img width="30%" height = "30%" src="https://cdn.journals.aps.org/test/45b6fb94-cede-4c3f-b6e2-1c9bb74641f0/cover-image.png" alt="cover" />
-</div>
-
 ### Hi there 👋
 
 I am a professional mathematician and IT specialist with over 15 years of experience in managing and operating information technology in the field of machine learning. I have a PhD in mathematics. I am passionate about process improvement through automation, testing and implementation. I am innovative and eager to learn about the latest tools and methodologies and apply my knowledge in practice in solving problems and completing projects.
