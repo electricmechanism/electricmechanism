@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a professional mathematician and IT specialist with over 15 years of experience in managing and operating information technology in the field of machine learning. I have a PhD in mathematics. I am passionate about process improvement through automation, testing and implementation. I am innovative and eager to learn about the latest tools and methodologies and apply my knowledge in practice in solving problems and completing projects.
+I am a professional mathematician with a Ph.D. in Physics and Mathematics, bringing over 15 years of extensive experience in managing and advancing information technology systems, with a specialized focus on machine learning and data-driven solutions. My unique blend of expertise in theoretical mathematics, computational physics, and cutting-edge IT enables me to tackle complex challenges at the intersection of science and technology.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height=40px> </h2>
-<a href = 'https://www.github.com/electricmechanism'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+As a physicist-mathematician, I possess a profound understanding of mathematical modeling, algorithmic design, and analytical problem-solving, which I leverage to develop innovative machine learning frameworks and predictive models. My career has been dedicated to transforming abstract theories into practical applications, driving efficiency, accuracy, and innovation across various industries. From designing advanced algorithms to optimizing large-scale technological infrastructures, I consistently deliver impactful results that align with both scientific rigor and business objectives.
 
+My research interests include mathematical modeling and numerical methods in solving physical problems, mathematical modeling problems in agriculture, as well as the use of deep learning algorithms in various subject areas, and the use of hybrid methods for modeling.
